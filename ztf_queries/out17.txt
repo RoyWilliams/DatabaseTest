@@ -1,0 +1,3 @@
+mysql: [Warning] Using a password on the command line interface can be insecure.
+ERROR 1317 (70100) at line 1 in file: 'query17.sql': Query execution was interrupted
+^C -- query aborted
